@@ -6,9 +6,11 @@
 
 Find the syllabus on Brightspace. 
 
-Take notes on key ideas and questions
+
 
 ## Lesson 
+
+> Take notes on key ideas and questions
 
 - HTML is how websites are made
 - all browser provide an `inspect` tool to see the code (HTML) for the website
