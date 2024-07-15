@@ -29,12 +29,12 @@ Work in your group to make sure you can all answer the following questions and a
     <summary>2. What different tags did we learn today?</summary>
     <p>Today we learned various tags such as:</p>
     <ul>
-        <li>`h1` to `h6` for headings</li>
-        <li>`p` for paragraphs</li>
-        <li>`a` for links</li>
-        <li>`img` for images</li>
-        <li>`ul` and `li` for unordered lists</li>
-        <li>`ol` and `li` for ordered lists</li>
+        <li>`<h1>` to `h6` for headings</li>
+        <li>`<p></p>` for paragraphs</li>
+        <li>`<a>` for links</li>
+        <li>`<img>` for images</li>
+        <li>`<ul>` and `<li>` for unordered lists</li>
+        <li>`<ol>` and `<li>` for ordered lists</li>
     </ul>
 </details>
 
@@ -56,13 +56,14 @@ For these exercises, do not use any resources outside of this site, codepen, and
 That means the URL of your browser should always start with `https://csctd.github.io/2024/` or `codepen.io` during this exercise. 
 
 <details>
-      <summary>1. What does the `blockquote` tag do?</summary>
+      <summary> 1. What does the `<blockquote>` tag do?</summary>
       <p>The `blockquote` tag is used to indicate a block of quoted text from another source within a document. It typically indents the quoted text and may display it in italics depending on the browser's default styling.</p>
 </details>
 
 <details>
-    <summary>2. What does the `code` tag do?</summary>
-    <p>The `code` tag is used to define a piece of computer code. It is typically displayed in a monospace font and may preserve whitespace and line breaks. This tag is used to represent code snippets within the text.</p>
+    <summary>2. What does the `<code>` tag do?</summary>
+    <p>The `code` tag is used to define a piece of computer code. It is typically displayed in a monospace font 
+            and may preserve whitespace and line breaks. This tag is used to represent code snippets within the text, like the word code above</p>
 </details>
 
 <details>
@@ -76,3 +77,14 @@ That means the URL of your browser should always start with `https://csctd.githu
     <pre>`!-- This is a comment --`</pre>
     <p>The comment starts with `!-- and ends with --`. Anything between these markers is considered a comment and is ignored by the browser when rendering the webpage.</p>
 </details>
+
+## Extra Challenge - Make your own website! 
+
+1. [Make a GitHub Account](https://github.com/signup)
+
+2. [Make a repo called `username.github.io`](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+
+3. [Make a file called `index.html` and write your own html in it](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)
+
+4. [Turn on GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
