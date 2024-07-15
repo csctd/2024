@@ -1,5 +1,7 @@
 # Welcome! 
 
+## see this on your own at `csctd.github.io/2024/`
+
 ## Syllabus
 
 Find the syllabus on Brightspace. 
