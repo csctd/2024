@@ -29,12 +29,12 @@ Work in your group to make sure you can all answer the following questions and a
     <summary>2. What different tags did we learn today?</summary>
     <p>Today we learned various tags such as:</p>
     <ul>
-        <li>`<h1>` to `h6` for headings</li>
-        <li>`<p></p>` for paragraphs</li>
-        <li>`<a>` for links</li>
-        <li>`<img>` for images</li>
-        <li>`<ul>` and `<li>` for unordered lists</li>
-        <li>`<ol>` and `<li>` for ordered lists</li>
+        <li>`h1` to `h6` for headings</li>
+        <li>`p` for paragraphs</li>
+        <li>`a` for links</li>
+        <li>`img` for images</li>
+        <li>`ul` and `li` for unordered lists</li>
+        <li>`ol` and `li` for ordered lists</li>
     </ul>
 </details>
 
