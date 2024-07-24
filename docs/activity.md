@@ -13,7 +13,7 @@ With a partner or in a group of 3, compare your notes, and fill in your notes wi
 
 ## Check-in 
 
-[Codepen](codepen.io)](https://codepen.io/) is a tool that lets you practice writing code all in one page. 
+[Codepen](https://codepen.io/) is a tool that lets you practice writing code all in one page. 
 
 Work in your group to make sure you can all answer the following questions and agree on the answers. 
 
