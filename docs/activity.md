@@ -58,12 +58,12 @@ For these exercises, do not use any resources outside of this site, codepen, and
 That means the URL of your browser should always start with `https://csctd.github.io/2024/` or `codepen.io` during this exercise. 
 
 <details>
-      <summary> 1. What does the `<blockquote>` tag do?</summary>
+      <summary> 1. What does the `blockquote` tag do?</summary>
       <p>The `blockquote` tag is used to indicate a block of quoted text from another source within a document. It typically indents the quoted text and may display it in italics depending on the browser's default styling.</p>
 </details>
 
 <details>
-    <summary>2. What does the `<code>` tag do?</summary>
+    <summary>2. What does the `code` tag do?</summary>
     <p>The `code` tag is used to define a piece of computer code. It is typically displayed in a monospace font 
             and may preserve whitespace and line breaks. This tag is used to represent code snippets within the text, like the word code above</p>
 </details>
