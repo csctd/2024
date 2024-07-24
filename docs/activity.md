@@ -82,6 +82,8 @@ That means the URL of your browser should always start with `https://csctd.githu
 
 ## Extra Challenge - Make your own website! 
 
+[view this page on GitHub](https://github.com/csctd/2024/blob/main/docs/activity.md)
+
 1. [Make a GitHub Account](https://github.com/signup)
 
 2. [Make a repo called `username.github.io`](https://docs.github.com/en/get-started/quickstart/create-a-repo)
@@ -90,3 +92,5 @@ That means the URL of your browser should always start with `https://csctd.githu
 
 4. [Turn on GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
+
+> 
