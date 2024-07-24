@@ -44,4 +44,4 @@ At 3pm, you can switch to the quiz on brightspace even if the activity is not qu
 
 - I recommend reiviewing the [quiz hints](hints.md) before you begin
 
-## before you go, give me some feedback at `drsmb.co/tdexit`
+## before you go, give me some [feedback](https://docs.google.com/forms/d/e/1FAIpQLScyCYuQEbIWqA1shnBIEbkgNw_51iu0HUMR0uytrYEjZM_Zqg/viewform?usp=sf_link) at `drsmb.co/tdexit`
