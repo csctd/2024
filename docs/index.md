@@ -2,6 +2,7 @@
 
 ## see this on your own at `csctd.github.io/2024/`
 
+
 ## Syllabus
 
 Find the syllabus on Brightspace. 
@@ -21,6 +22,15 @@ Here are some example past course projects from this course (what you could be a
 - all browser provide an `inspect` tool to see the code (HTML) for the website
 - [course tips, as exported](tips-export.html)
 - [course tips from markdown](minimal.md)
+
+
+### If you use safari:
+- go to the top of the window
+- Safari > advanced
+- check the show web  developer
+- then 2 finger press for right click
+
+
 
 ## Activity
 
