@@ -30,6 +30,6 @@ Complete this in a small group, work until 3pm, it is not graded, but will help 
 
 ## Assessment 
 
-At 3pm, you can switch to this even if the activity is not quite done, or you can work on that until you are done because it will help with the following graded assessment. 
+At 3pm, you can switch to the quiz on brightspace even if the activity is not quite done, or you can work on that until you are done because it will help with the following graded assessment. 
 
-- [quiz hints](hints.md)
+- I recommend reiviewing the [quiz hints](hints.md) before you begin
