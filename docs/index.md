@@ -6,6 +6,11 @@
 
 Find the syllabus on Brightspace. 
 
+Here are some example past course projects from this course (what you could be able to do at the end of CSC106). 
+
+- [aidan19](https://aidanl19.github.io/index.html)
+- [mherchen](https://mherchen.github.io/javascripts.html)
+- [sofiamancini](https://sofiamancini.github.io/javascripts.html)
 
 
 ## Lesson 
