@@ -33,3 +33,5 @@ Complete this in a small group, work until 3pm, it is not graded, but will help 
 At 3pm, you can switch to the quiz on brightspace even if the activity is not quite done, or you can work on that until you are done because it will help with the following graded assessment. 
 
 - I recommend reiviewing the [quiz hints](hints.md) before you begin
+
+## before you go, give me some feedback at `drsmb.co/tdexit`
