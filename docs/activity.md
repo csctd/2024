@@ -1,5 +1,7 @@
 # Activity 
 
+
+
 ## Review
 With a partner or in a group of 3, compare your notes, and fill in your notes with anything that you learn from your group. Focus on the following questions
 
@@ -13,9 +15,9 @@ With a partner or in a group of 3, compare your notes, and fill in your notes wi
 
 ## Check-in 
 
-[Codepen](https://codepen.io/) is a tool that lets you practice writing code all in one page. 
 
-Work in your group to make sure you can all answer the following questions and agree on the answers. 
+
+Work in your group to make sure you can all answer the following questions and agree on the answers. Once you have your answer, click on the question to see the answer. 
 
 <details>
         <summary>1. What is HTML? Where does it come from? What is it for?</summary>
@@ -27,13 +29,15 @@ Work in your group to make sure you can all answer the following questions and a
           and to ensure that the content is properly interpreted by web browsers and other web-based software.</p>
 </details>
 
+
 <details>
     <summary>2. What different tags did we learn today?</summary>
     <p>Today we learned various tags such as:</p>
     <ul>
-        <li>`h1` to `h6` for headings</li>
+        <li> `h1` to `h6` for headings</li>
         <li>`p` for paragraphs</li>
         <li>`a` for links</li>
+        <li>  </li>
         <li>`img` for images</li>
         <li>`ul` and `li` for unordered lists</li>
         <li>`ol` and `li` for ordered lists</li>
@@ -51,6 +55,13 @@ Work in your group to make sure you can all answer the following questions and a
     </ul>
 </details>
 
+## Practice 
+
+
+
+[Codepen](https://codepen.io/) is a tool that lets you practice writing code all in one page.  
+I made a [template pen](https://codepen.io/pen?template=RwzooKo) if you want to get practice by adding your own tags 
+to an example web page. 
 
 ## Challenge
 
