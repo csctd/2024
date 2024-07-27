@@ -18,6 +18,8 @@ Here are some example past course projects from this course (what you could be a
 
 > Take notes on key ideas and questions
 
+![house metaphor for css, javascript, html](https://www.keentodesign.com.au/cdn-cgi/imagedelivery/eOylWWvDYZyJkbAUtQZpuQ/www.keentodesign.com.au/html.png/w=768)
+
 - HTML is how websites are made
 - all browser provide an `inspect` tool to see the code (HTML) for the website
 - [course tips, as exported](tips-export.html)
@@ -26,7 +28,7 @@ Here are some example past course projects from this course (what you could be a
 
 ### If you use safari:
 - go to the top of the window
-- Safari > advanced
+- Safari >settings > advanced
 - check the show web  developer
 - then 2 finger press for right click
 
