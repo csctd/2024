@@ -20,7 +20,7 @@ Here are some example past course projects from this course (what you could be a
 
 ![house metaphor for css, javascript, html](https://www.keentodesign.com.au/cdn-cgi/imagedelivery/eOylWWvDYZyJkbAUtQZpuQ/www.keentodesign.com.au/html.png/w=768)
 
-- HTML is how websites are made
+- <abbr title="HyperText Markup Language">HTML</abbr> is how websites are made
 - all browser provide an `inspect` tool to see the code (HTML) for the website
 - [course tips, as exported](tips-export.html)
 - [course tips from markdown](minimal.md)
