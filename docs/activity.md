@@ -26,7 +26,7 @@ Work in your group to make sure you can all answer the following questions and a
           </p>
         <p> HTML describes the structure of a web page semantically.
           Its primary purpose is to allow the structuring of documents (such as headings, paragraphs, lists, links, images, and other elements) 
-          and to ensure that the content is properly interpreted by web browsers and other web-based software.</p>
+          and to ensure that the content is properly interpreted by web browsers.</p>
 </details>
 
 
@@ -34,13 +34,13 @@ Work in your group to make sure you can all answer the following questions and a
     <summary>2. What different tags did we learn today?</summary>
     <p>Today we learned various tags such as:</p>
     <ul>
-        <li> `h1` to `h6` for headings</li>
-        <li>`p` for paragraphs</li>
-        <li>`a` for links</li>
-        <li>  </li>
-        <li>`img` for images</li>
-        <li>`ul` and `li` for unordered lists</li>
-        <li>`ol` and `li` for ordered lists</li>
+        <li> <code>h1</code> to <code>h6</code> for headings</li>
+        <li> <code>p</code> for paragraphs</li>
+        <li> <code>a</code> for links</li>
+        <li> <code>br</code> for line breaks </li>
+        <li> <code>img</code> for images</li>
+        <li> <code>ul</code> and <code>li</code> for unordered lists</li>
+        <li> <code>ol</code> and <code>li</code> for ordered lists</li>
     </ul>
 </details>
 
@@ -48,10 +48,10 @@ Work in your group to make sure you can all answer the following questions and a
     <summary>3. What is the structure of a tag? What parts does each tag have?</summary>
     <p>A tag in HTML consists of:</p>
     <ul>
-        <li>Opening tag: Indicates the beginning of an element and is enclosed in angle brackets, e.g., `tagname`</li>
+        <li>Opening tag: Indicates the beginning of an element and is enclosed in angle brackets, e.g., <pre><tagname></pre></li>
         <li>Content: The content of the element, such as text or other elements</li>
-        <li>Closing tag: Indicates the end of an element, also enclosed in angle brackets but prefixed with a slash, e.g., `/tagname`</li>
-        <li>Attributes: Provide additional information about the element and are always included in the opening tag. Attributes are written within the tag's opening bracket, e.g., `tagname attribute="value"`</li>
+        <li>Closing tag: Indicates the end of an element, also enclosed in angle brackets but prefixed with a slash, e.g., <pre></tagname></pre></li>
+        <li>Attributes: Provide additional information about the element and are always included in the opening tag. An example attribute is the <code>href</code> attribute in an <code>a</code> tag to tell the link where to link to. Attributes are written within the tag's opening bracket, e.g., <pre><tagname attribute="value"></pre></li>
     </ul>
 </details>
 
@@ -60,8 +60,9 @@ Work in your group to make sure you can all answer the following questions and a
 
 
 [Codepen](https://codepen.io/) is a tool that lets you practice writing code all in one page.  
-I made a [template pen](https://codepen.io/pen?template=RwzooKo) if you want to get practice by adding your own tags 
-to an example web page. 
+I made a <a href="https://codepen.io/pen?template=RwzooKo" target="_blank">template pen</a>  if you want to get practice by adding your own tags 
+to an example web page. You do not need to make an account to do the activity, but if you do make an account you can save your progress and have this
+for future reference. 
 
 ## Challenge
 
@@ -69,13 +70,13 @@ For these exercises, do not use any resources outside of this site, codepen, and
 That means the URL of your browser should always start with `https://csctd.github.io/2024/` or `codepen.io` during this exercise. 
 
 <details>
-      <summary> 1. What does the `blockquote` tag do?</summary>
-      <p>The `blockquote` tag is used to indicate a block of quoted text from another source within a document. It typically indents the quoted text and may display it in italics depending on the browser's default styling.</p>
+      <summary> 1. What does the <code>blockquote</code> tag do?</summary>
+      <p>The <code>blockquote</code> tag is used to indicate a block of quoted text from another source within a document. It typically indents the quoted text and may display it in italics depending on the browser's default styling.</p>
 </details>
 
 <details>
-    <summary>2. What does the `code` tag do?</summary>
-    <p>The `code` tag is used to define a piece of computer code. It is typically displayed in a monospace font 
+    <summary>2. What does the <code>code</code> tag do?</summary>
+    <p>The <code>code</code> tag is used to define a piece of computer code. It is typically displayed in a monospace font 
             and may preserve whitespace and line breaks. This tag is used to represent code snippets within the text, like the word code above</p>
 </details>
 
@@ -87,7 +88,7 @@ That means the URL of your browser should always start with `https://csctd.githu
 <details>
     <summary>4. What is the syntax of a comment (notes for other programmers who read code that does not show in the browser) in HTML?</summary>
     <p>In HTML, comments are used to add notes or annotations for developers and do not display in the browser. The syntax for a comment in HTML is:</p>
-    <pre>`!-- This is a comment --`</pre>
+    <pre>`<!-- This is a comment -->`</pre>
     <p>The comment starts with `!-- and ends with --`. Anything between these markers is considered a comment and is ignored by the browser when rendering the webpage.</p>
 </details>
 
