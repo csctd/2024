@@ -1,7 +1,6 @@
 # Activity 
 
 
-
 ## Review
 With a partner or in a group of 3, compare your notes, and fill in your notes with anything that you learn from your group. Focus on the following questions
 
@@ -92,9 +91,20 @@ That means the URL of your browser should always start with `https://csctd.githu
     <p>The comment starts with `!-- and ends with --`. Anything between these markers is considered a comment and is ignored by the browser when rendering the webpage.</p>
 </details>
 
-## Extra Challenge - Make your own website! 
+## Extra Challenge, Understand this page
 
-[view this page on GitHub](https://github.com/csctd/2024/blob/main/docs/activity.md)
+
+1. [view this page on GitHub](https://github.com/csctd/2024/blob/main/docs/activity.md)
+1. How do the questions above with hidden answers work?
+1. What markdown syntax maps onto different HTML tags we have learned
+   
+<!-- this file is wrtten in markdown, an easier to read markup language than can be converted to HTML, for complex things in markdown 
+you have to use regular HTML, so this file contains a mixture of markdown and regular HTML, when GitHub serves the page, it converts it all
+all into HTML, if you are in your browser with inspect you will see all HTML, if you view on GitHub you will see the markdown and html mixed together -->
+
+## Extra *Extra* Challenge - Make your own website! 
+
+
 
 1. [Make a GitHub Account](https://github.com/signup)
 
@@ -105,4 +115,4 @@ That means the URL of your browser should always start with `https://csctd.githu
 4. [Turn on GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
 
-> 
+
