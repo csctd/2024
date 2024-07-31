@@ -47,10 +47,10 @@ Work in your group to make sure you can all answer the following questions and a
     <summary>3. What is the structure of a tag? What parts does each tag have?</summary>
     <p>A tag in HTML consists of:</p>
     <ul>
-        <li>Opening tag: Indicates the beginning of an element and is enclosed in angle brackets, e.g., <pre><tagname></pre></li>
+        <li>Opening tag: Indicates the beginning of an element and is enclosed in angle brackets,</li>
         <li>Content: The content of the element, such as text or other elements</li>
-        <li>Closing tag: Indicates the end of an element, also enclosed in angle brackets but prefixed with a slash, e.g., <pre></tagname></pre></li>
-        <li>Attributes: Provide additional information about the element and are always included in the opening tag. An example attribute is the <code>href</code> attribute in an <code>a</code> tag to tell the link where to link to. Attributes are written within the tag's opening bracket, e.g., <pre><tagname attribute="value"></pre></li>
+        <li>Closing tag: Indicates the end of an element, also enclosed in angle brackets but prefixed with a slash</li>
+        <li>Attributes: Provide additional information about the element and are always included in the opening tag. An example attribute is the href attribute in an code tag to tell the link where to link to. Attributes are written within the tag's opening bracket </li>
     </ul>
 </details>
 
